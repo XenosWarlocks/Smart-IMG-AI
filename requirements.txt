@@ -1,0 +1,10 @@
+google-api-core
+google-api-python-client
+langchain
+google-generativeai
+streamlit
+pillow
+requests
+fastapi
+uvicorn
+python-multipart
